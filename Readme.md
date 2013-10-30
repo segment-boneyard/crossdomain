@@ -1,6 +1,6 @@
 # crossdomain
 
-  Renders `crossdomain.xml` so that Adobe Flash Player clients can make requests to your domain. More on this nonsense [here](http://www.adobe.com/devnet/adobe-media-server/articles/cross-domain-xml-for-streaming.html).
+  Render a `crossdomain.xml` so that Adobe Flash Player clients can make requests to your domain. More on this nonsense [here](http://www.adobe.com/devnet/adobe-media-server/articles/cross-domain-xml-for-streaming.html).
 
 ## Installation
 
@@ -53,7 +53,7 @@ app.listen(8000);
 }
 ```
 
-Explanation is [here](http://www.adobe.com/devnet/adobe-media-server/articles/cross-domain-xml-for-streaming.html).
+Read more about these options in the [Adobe docs](http://www.adobe.com/devnet/adobe-media-server/articles/cross-domain-xml-for-streaming.html).
 
 ## License
 
